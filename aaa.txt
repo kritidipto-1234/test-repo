@@ -1,1 +1,4 @@
 ewfwef
+ssh-keygen -t ed25519 -C "kritidiptodgp.ghosh@gmail.com"
+
+weefewfwf
